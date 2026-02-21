@@ -1,4 +1,46 @@
-## Hi there 👋
+# Hi, I'm Marcelo 👋
+
+🎓 Computer Science Student
+💻 Interested in Fullstack Development and Information Security
+🚀 Seeking internship opportunities in technology
+
+---
+
+## 🧠 Technologies and Knowledge
+
+- HTML, CSS, JavaScript
+- C Language
+- Database (SQL)
+- Git and GitHub
+- Linux (basic)
+- Programming Logic
+
+---
+
+## 📚 Currently studying
+
+- Fullstack Web Development
+- APIs and Integrations
+- Information Security
+
+---
+
+## 🚀 Featured Projects
+
+🔹 Registration System — Application with CRUD operations and database
+🔹 Web Applications — Interfaces and front-end logic
+
+---
+
+## 📫 Contact
+
+📧 Email: marcelohabm@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/marcelo-henrique-malagueta-64b35224a/?skipRedirect=true
+
+---
+
+⭐ Always seeking to learn and evolve in the technology field!
 
 <!--
 **marceloohenr/marceloohenr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
