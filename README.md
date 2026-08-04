@@ -36,7 +36,7 @@
 
 📧 Email: marcelohabm@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/marcelo-henrique-malagueta-64b35224a/?skipRedirect=true
+💼 LinkedIn: https://linkedin.com/in/marceloohenr
 
 ---
 
