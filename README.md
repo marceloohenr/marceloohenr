@@ -1,24 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=190&section=header&text=Marcelo%20Henrique&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Computer%20Science&descAlignY=55&descSize=18"/>
+# 👨‍💻 Marcelo Henrique
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=7C3AED&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Marcelo+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%92%BB;React+%7C+TypeScript+%7C+Node.js+%7C+PHP;APIs+%7C+Databases+%7C+Docker+%7C+Linux;Building+Complete+Web+Applications+%F0%9F%9A%80;From+Frontend+to+Backend+and+Deploy+%E2%9A%A1" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=7C3AED&center=true&vCenter=true&width=950&lines=Fullstack+Developer+%F0%9F%92%BB;React+%7C+TypeScript+%7C+Node.js+%7C+PHP+%7C+Java+%7C+Python;APIs+%7C+Databases+%7C+Docker+%7C+Linux;Building+Complete+Web+Applications+%F0%9F%9A%80;Frontend+%E2%86%92+Backend+%E2%86%92+Database+%E2%86%92+Deploy" alt="Typing SVG"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/Fullstack-Developer-7C3AED?style=for-the-badge&logo=code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Science-Student-2563EB?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cybersecurity-Studying-06B6D4?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+**Fullstack Developer • Computer Science Student • Software Development**
 
-<br/><br/>
+📍 Brazil 🇧🇷
 
-<img src="https://komarev.com/ghpvc/?username=marceloohenr&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo_Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marceloohenr)
+[![GitHub](https://img.shields.io/badge/GitHub-marceloohenr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marceloohenr)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelohabm@gmail.com)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```javascript
 const marcelo = {
@@ -27,17 +27,42 @@ const marcelo = {
     education: "Computer Science",
     location: "Brazil 🇧🇷",
 
-    stack: [
+    languages: [
         "JavaScript",
         "TypeScript",
-        "React",
+        "PHP",
+        "Java",
+        "Python",
+        "C"
+    ],
+
+    frontend: [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "TypeScript",
+        "React"
+    ],
+
+    backend: [
         "Node.js",
         "PHP",
-        "C",
+        "Java",
+        "Python",
+        "REST APIs"
+    ],
+
+    databases: [
         "PostgreSQL",
         "MySQL",
+        "SQL"
+    ],
+
+    infrastructure: [
         "Docker",
-        "Linux"
+        "Linux",
+        "Git",
+        "GitHub"
     ],
 
     experience: [
@@ -46,72 +71,65 @@ const marcelo = {
         "Authentication & Authorization",
         "Database Integration",
         "Administrative Dashboards",
-        "System Integrations",
         "CRUD Systems",
+        "System Integrations",
+        "Business Rules",
         "Deployment",
         "Dockerized Applications"
     ],
 
     studying: [
         "Information Security",
+        "Cybersecurity",
         "Application Security",
-        "Cybersecurity Fundamentals"
+        "Secure Development"
     ],
 
-    focus: "Building scalable and maintainable software 🚀"
+    focus: "Building scalable, secure and maintainable software 🚀"
 };
 ```
 
-I'm a **Fullstack Developer and Computer Science student** focused on building complete web applications from frontend interfaces to backend services, databases and deployment.
+I'm a **Fullstack Developer and Computer Science student** focused on building complete web applications, working across the entire development flow — from frontend interfaces to backend services, databases and deployment.
 
-I work with technologies such as **JavaScript, TypeScript, React, Node.js, PHP, SQL, Docker and Linux**, developing applications involving APIs, authentication, dashboards, integrations, business rules and data persistence.
+I work with technologies such as **JavaScript, TypeScript, React, Node.js, PHP, Java, Python, SQL, Docker and Linux**, developing applications involving APIs, authentication, authorization, dashboards, integrations, business rules and data persistence.
 
-I enjoy understanding the complete lifecycle of an application, from the user interface to backend logic, database communication, deployment and maintenance.
+My experience includes building and maintaining **fullstack applications, REST APIs, administrative systems, CRUD platforms, authentication flows, database integrations and responsive web interfaces**.
 
-Alongside software development, I'm also expanding my knowledge in **Information Security and Cybersecurity**, with a focus on understanding application security, secure development practices and how modern systems can be better protected.
+I enjoy understanding the complete architecture of an application and how each layer communicates — **Frontend → Backend → API → Database → Infrastructure → Deploy**.
 
-- 💻 Fullstack Web Development
-- ⚙️ Backend & API Development
-- 🧩 Frontend Development
-- 🗄️ Database Integration
-- 🔐 Authentication & Authorization
-- 🐳 Docker & Containerized Applications
-- 🐧 Linux Environments
-- 🚀 Application Deployment
-- 🔧 Debugging and System Maintenance
-- 🛡️ Studying Cybersecurity & Information Security
+Alongside software development, I'm expanding my knowledge in **Information Security and Cybersecurity**, especially application security, secure development practices and protection of modern web systems.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend
+### 🌐 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="Frontend Technologies"/>
 
 <br/><br/>
 
-### Backend & Programming
+### ⚙️ Backend & Programming
 
-<img src="https://skillicons.dev/icons?i=nodejs,php,c" alt="Backend and Programming"/>
+<img src="https://skillicons.dev/icons?i=nodejs,php,java,python,c" alt="Backend Technologies"/>
 
 <br/><br/>
 
-### Databases
+### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases"/>
 
 <br/><br/>
 
-### DevOps & Infrastructure
+### 🐳 DevOps & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=docker,linux" alt="DevOps and Infrastructure"/>
 
 <br/><br/>
 
-### Tools & Development Environment
+### 🔧 Tools & Development Environment
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
 
@@ -119,36 +137,7 @@ Alongside software development, I'm also expanding my knowledge in **Information
 
 ---
 
-# ⚙️ Development Experience
-
-I work across the full application development lifecycle, from interface implementation to backend logic, data persistence and deployment.
-
-My practical experience includes:
-
-- Building responsive and modern web interfaces
-- Developing frontend applications with JavaScript, TypeScript and React
-- Creating backend services using Node.js and PHP
-- Building and consuming REST APIs
-- Integrating frontend applications with backend services
-- Working with relational databases such as PostgreSQL and MySQL
-- Implementing authentication and authorization flows
-- Creating role-based access control
-- Building administrative dashboards
-- Developing CRUD systems
-- Implementing business rules and validations
-- Integrating external APIs and services
-- Managing application state and data flow
-- Working with Git and GitHub for version control
-- Using Linux-based development environments
-- Containerizing applications with Docker
-- Debugging frontend and backend applications
-- Maintaining and evolving existing systems
-- Deploying web applications
-- Working from development to production
-
----
-
-# 💻 Main Technologies
+## 💻 Main Technologies
 
 <div align="center">
 
@@ -157,6 +146,12 @@ My practical experience includes:
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+
+<br/>
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
@@ -168,38 +163,7 @@ My practical experience includes:
 
 ---
 
-# 🛡️ Cybersecurity Studies
-
-Information Security is an area I'm actively studying alongside Fullstack Development.
-
-My current focus includes:
-
-- Application Security
-- Secure Coding Practices
-- Authentication Security
-- Authorization and Access Control
-- Web Security Fundamentals
-- Linux Security
-- API Security
-- Common Web Vulnerabilities
-- OWASP concepts
-- Secure Software Development
-
-```bash
-marcelo@security:~$ current_focus
-
-Web Application Security
-Secure APIs
-Authentication & Authorization
-Linux Security
-Secure Development Practices
-```
-
-My goal is to combine **software development knowledge with security awareness**, allowing me to build applications with a stronger understanding of potential vulnerabilities and secure architecture.
-
----
-
-# 💻 Developer Terminal
+## 💻 Developer Terminal
 
 ```bash
 ┌──(marcelo㉿github)-[~]
@@ -211,281 +175,233 @@ Computer Science Student
 
 
 ┌──(marcelo㉿github)-[~]
-└─$ cat stack.txt
+└─$ cat languages.txt
 
 JavaScript
 TypeScript
+PHP
+Java
+Python
+C
+
+
+┌──(marcelo㉿github)-[~]
+└─$ cat frontend.txt
+
+HTML5
+CSS3
+JavaScript
+TypeScript
 React
+
+
+┌──(marcelo㉿github)-[~]
+└─$ cat backend.txt
+
 Node.js
 PHP
-PostgreSQL
-MySQL
+Java
+Python
+REST APIs
+
+
+┌──(marcelo㉿github)-[~]
+└─$ cat infrastructure.txt
+
 Docker
 Linux
+Git
+GitHub
 
 
 ┌──(marcelo㉿github)-[~]
-└─$ cat experience.txt
-
-Frontend Development
-Backend Development
-REST APIs
-Authentication
-Databases
-Dashboards
-Integrations
-Docker
-Deployment
-
-
-┌──(marcelo㉿github)-[~]
-└─$ cat currently-studying.txt
+└─$ cat security-studies.txt
 
 Information Security
-Application Security
 Cybersecurity
+Application Security
+Secure Development
 
 
 ┌──(marcelo㉿github)-[~]
-└─$ status
+└─$ echo $CURRENT_FOCUS
 
-Building   ████████████████████ 100%
-Improving  ████████████████████ 100%
-Learning   ████████████████████ ∞
+Building scalable, secure and maintainable software 🚀
 ```
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 What I Work With
 
-### 📋 Registration System
+### Fullstack Development
 
-Fullstack application focused on managing records through complete CRUD operations and database integration.
+Development of complete web applications connecting modern interfaces with backend services and databases.
 
-**Main features**
-
-- Create records
-- Read stored data
-- Update information
-- Delete records
-- Form validation
-- Database integration
-- Business logic
-- Data persistence
-
-**Technologies**
-
-![HTML](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql)
-
----
-
-### 🌐 Fullstack Web Applications
-
-Applications focused on complete web development, connecting frontend interfaces, backend services and databases.
-
-**Main concepts**
-
-- Responsive Interfaces
-- Frontend Development
-- Backend Services
+- Responsive web interfaces
+- Frontend architecture
+- Backend development
 - REST APIs
 - Authentication
 - Authorization
-- Database Integration
-- Business Logic
-- Application Architecture
-- Deployments
+- Database integration
+- Business logic
+- Administrative dashboards
+- CRUD applications
+- System integrations
+- Deployment
 
-**Technologies**
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react)
+### ⚙️ Backend & APIs
+
+Development of backend services responsible for business rules, authentication, data processing and integrations.
+
+Technologies and concepts:
+
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs)
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python)
+
+- REST API development
+- Authentication & authorization
+- Business rules
+- Data validation
+- Database communication
+- API integrations
+- Backend architecture
+
+---
+
+### 🗄️ Databases
+
+Experience working with relational databases and application data persistence.
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql)
 
----
-
-### 📊 Administrative Dashboards
-
-Development of management interfaces focused on organizing data, users and application workflows.
-
-**Experience includes**
-
-- User management
-- Role-based permissions
-- Authentication
-- Data visualization
-- Forms
-- Filters
-- Search
+- Database modeling
+- SQL queries
 - CRUD operations
-- API integration
-- Database persistence
-- Responsive interfaces
+- Relationships
+- Data persistence
+- Backend integration
 
 ---
 
-### 🔗 API & Integration Projects
+### 🐳 Docker & Linux
 
-Development and integration of APIs for communication between systems and services.
+Experience working with development environments and application infrastructure using:
 
-**Concepts**
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux)
 
-- REST
-- JSON
-- HTTP Methods
-- Authentication
-- Authorization
-- API Consumption
-- External Service Integration
-- Error Handling
-- Data Validation
-- Backend Business Rules
+- Docker containers
+- Application environments
+- Linux development environment
+- Environment configuration
+- Application deployment
+- Git-based development workflows
 
 ---
 
-# 🧩 What I Build
+## 🔐 Information Security & Cybersecurity
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Studying+Information+Security+%F0%9F%94%90;Cybersecurity+%7C+Application+Security;Secure+Development+Practices;Understanding+How+to+Build+Safer+Applications" alt="Cybersecurity Studies"/>
+
+</div>
+
+Alongside software development, I'm currently expanding my knowledge in **Information Security and Cybersecurity**.
+
+My studies are focused on understanding how software can be developed with security in mind, including:
+
+- Information Security fundamentals
+- Cybersecurity fundamentals
+- Application Security
+- Web Application Security
+- Authentication & Authorization
+- Secure Development
+- Security best practices
+- Vulnerability awareness
+
+My goal is to combine **Software Development + Security** to build applications that are not only functional and scalable, but also more secure.
+
+---
+
+## 🚀 Featured Development Areas
 
 ```text
-🌐 Fullstack Web Applications
-⚡ REST APIs
-🔗 API Integrations
-🔐 Authentication Systems
-👥 Role-Based Access Control
-📊 Administrative Dashboards
-🗄️ Database-driven Applications
-⚙️ Process Automations
-🐳 Dockerized Applications
-🐧 Linux-based Environments
-🚀 Deployments
-🔧 System Maintenance
-🛡️ Security-aware Applications
+┌──────────────────────────────────────────────┐
+│                                              │
+│   🌐 Frontend Development                   │
+│   ⚙️ Backend Development                    │
+│   🔌 REST APIs                              │
+│   🗄️ Database Integration                  │
+│   🔐 Authentication & Authorization         │
+│   📊 Administrative Dashboards              │
+│   🔄 System Integrations                    │
+│   🐳 Docker                                 │
+│   🐧 Linux                                  │
+│   🚀 Deployment                             │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🏗️ Development Workflow
-
-```text
-Idea
-  ↓
-Planning
-  ↓
-UI / Frontend
-  ↓
-Backend
-  ↓
-API
-  ↓
-Database
-  ↓
-Authentication
-  ↓
-Business Rules
-  ↓
-Testing
-  ↓
-Docker
-  ↓
-Deploy
-  ↓
-Monitoring & Maintenance
-```
-
-I like understanding the entire application lifecycle instead of focusing only on one isolated layer.
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marceloohenr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=2563EB&text_color=FFFFFF" alt="Marcelo GitHub Stats"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=marceloohenr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloohenr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF" alt="Top Languages"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=marceloohenr&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=2563EB&currStreakLabel=7C3AED" alt="GitHub Streak"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloohenr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=marceloohenr&bg_color=0D1117&color=7C3AED&line=2563EB&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true" alt="Contribution Graph"/>
+<img src="https://streak-stats.demolab.com?user=marceloohenr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/marceloohenr/marceloohenr/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+![Snake animation](https://raw.githubusercontent.com/marceloohenr/marceloohenr/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Professional Interests
 
-```yaml
-development:
-  - Fullstack Applications
-  - Frontend Architecture
-  - Backend Development
-  - REST APIs
-  - Authentication
-  - Databases
-  - Docker
-  - Linux
-  - Deployment
-
-security_studies:
-  - Information Security
-  - Application Security
-  - API Security
-  - Secure Coding
-  - Web Security
-  - OWASP Fundamentals
-
-career:
-  - Software Development
-  - Fullstack Development
-  - Backend Development
-  - Technology Opportunities
-```
-
----
-
-# 🤝 Professional Interests
-
-I'm interested in opportunities involving:
+I'm interested in opportunities and projects involving:
 
 - Fullstack Development
+- Software Engineering
 - Frontend Development
 - Backend Development
-- Software Engineering
-- Web Applications
-- APIs and Integrations
+- JavaScript / TypeScript
+- React
+- Node.js
+- PHP
+- Java
+- Python
+- REST APIs
 - Databases
 - Docker
 - Linux
+- System Integrations
 - Software Architecture
 - Information Security
 
@@ -493,36 +409,24 @@ I enjoy working on projects where I can contribute across different parts of the
 
 ---
 
-# 📫 Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
 
-<a href="mailto:marcelohabm@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-marcelohabm%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/marceloohenr">
-  <img src="https://img.shields.io/badge/LinkedIn-Marcelo_Henrique-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/marceloohenr">
-  <img src="https://img.shields.io/badge/GitHub-marceloohenr-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
+I'm always open to **technology opportunities, software projects and professional connections**.
 
 <br/>
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marceloohenr)
 
-### 💡 Build. Solve. Improve.
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelohabm@gmail.com)
 
-*"Building complete solutions from frontend to deploy."*
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marceloohenr)
 
 <br/>
 
-⭐ **Thanks for visiting my profile!**
+### 🚀 Building software. Solving problems. Learning every day.
+
+![Profile Views](https://komarev.com/ghpvc/?username=marceloohenr&style=for-the-badge&color=7C3AED)
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:2563EB&height=120&section=footer"/>
